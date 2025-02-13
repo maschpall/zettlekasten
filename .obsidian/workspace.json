@@ -13,22 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "0-inbox/0-Definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "0-Definition"
             }
-          }
-        ]
-      },
-      {
-        "id": "f6ed607bee98053f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a854f7f3e0314eb8",
+            "id": "ce7cf71865e7a183",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "0-inbox/0-Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 0-Definition"
             }
           },
           {
@@ -129,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "0-inbox/0-Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 0-Definition"
             }
           },
           {
@@ -158,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "0-inbox/0-Definition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 0-Definition"
             }
           }
         ]
@@ -186,7 +180,25 @@
   },
   "active": "bf748c1e4ff9f56a",
   "lastOpenFiles": [
-    "README.md",
-    "Welcome.md"
+    "0-inbox/0-Definition.md",
+    "1-projects/Projects.md",
+    "PARA-definition.md",
+    "2-areas/Areas.md",
+    "PARA-Definition.md",
+    "4-archives/Archive.md",
+    "3-resources/Resources.md",
+    "2-areas/tech",
+    "3-resources/deep-learning",
+    "3-resources/machine-learning",
+    "1-projects/freelance",
+    "3-resources/home-server",
+    "3-resources/NAS",
+    "3-resources/mushrooms",
+    "3-resources/home-networking",
+    "3-resources/shell",
+    "3-resources/vim",
+    "Welcome.md",
+    "1-projects.md",
+    "README.md"
   ]
 }
