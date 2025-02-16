@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-zettlekasten/Markdown to Hugo Flow.md",
+                "file": "2-areas/blog/Blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown to Hugo Flow"
+              "title": "Blog"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-zettlekasten/Markdown to Hugo Flow.md",
+                "file": "2-areas/blog/Blog.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Markdown to Hugo Flow"
+              "title": "Graph of Blog"
             }
           }
         ]
@@ -213,15 +213,15 @@
   },
   "active": "88487995dba8d6c5",
   "lastOpenFiles": [
+    "00-zettlekasten/Markdown to Hugo Flow.md",
     "00-zettlekasten/Git merge-rebase-forward.md",
     "00-zettlekasten/git conflicts.md",
     "3-resources/git/learn-git.md",
-    "00-zettlekasten/Markdown to Hugo Flow.md",
     "00-zettlekasten/test ipad.md",
     "00-zettlekasten/Test iPad draw.md",
     "00-zettlekasten/sync obsidian via git for iPad.md",
     "00-zettlekasten/Hugo.md",
-    "Blog.md",
+    "2-areas/blog/Blog.md",
     "00-zettlekasten/Amethyst.md",
     "3-resources/mac setup/Mac Setup.md",
     "0-inbox/0-Definition.md",
