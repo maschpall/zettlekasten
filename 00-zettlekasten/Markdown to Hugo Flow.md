@@ -9,3 +9,5 @@ Extra:
 - write another script to publish this
 
 Links
+[[Hugo]]
+

@@ -1,0 +1,5 @@
+- Set up a hosting platform
+- Write scripts to deploy your content in an automatic fashion
+- Services ([[Hugo]])
+- Once a week writting
+- Once a month publishing
